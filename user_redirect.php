@@ -35,15 +35,10 @@ UK3XKUohcVejhItaOnaY4EyJ
 -----END PRIVATE KEY-----";
 
 
-// $DB['host'] = 'localhost';
-// $DB['db'] = 'API:WC2WP';
-// $DB['user'] = 'root';
-// $DB['passw'] = '';
-
 $DB['host'] = 'localhost';
-$DB['db'] = 'u708823513_sVG1T';
-$DB['user'] = 'u708823513_MXLnj';
-$DB['passw'] = 'Guto@1214';
+$DB['db'] = 'API:WC2WP';
+$DB['user'] = 'root';
+$DB['passw'] = '';
 
 require_once('index.php');
 require_once('src/phpseclib1.0.20/Crypt/RSA.php');
